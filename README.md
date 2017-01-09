@@ -17,7 +17,7 @@ Using data analysis with Python on 911 Call Data sourced from Kaggle.
     5.	Cheltenham
 
 - Type of reasons for 911 calls and their respective counts
-![Alt text](/graphs/reasoncount.png?raw=true)
+![Alt text](/graphs/reasoncount.png?raw=true =300x300)
 - Separating reasons by days of the week, as well as their respective counts
 ![Alt text](/graphs/dayofweekcount.png?raw=true)
 - Total number of 911 Calls per month
