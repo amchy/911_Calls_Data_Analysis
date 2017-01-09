@@ -19,7 +19,7 @@ Using data analysis with Python on 911 Call Data sourced from Kaggle.
 - Type of reasons for 911 calls and their respective counts
 ![Alt text](/graphs/reasoncount.png?raw=true)
 - Separating reasons by days of the week, as well as their respective counts
-![Alt text](/graphs/dayofweekcount.png?raw=true)
+![Alt text](/graphs/dayofweekcount.png? =300x300)
 - Total number of 911 Calls per month
 ![Alt text](/graphs/callspermonth.png? =300x300)
 - Grouping aggregate calls by month to see fluctuations throughout time
