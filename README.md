@@ -1,3 +1,4 @@
+
 # 911 Calls Data Analysis
 
 Using data analysis with Python on 911 Call Data sourced from Kaggle.
@@ -25,6 +26,7 @@ Using data analysis with Python on 911 Call Data sourced from Kaggle.
 ![Alt text](/graphs/dayofweekcount.png? =300x300)
 
 - Total number of 911 Calls per month
+
 ![Alt text](/graphs/callspermonth.png? =300x300)
 
 - Grouping aggregate calls by month to see fluctuations throughout time
@@ -42,6 +44,5 @@ Using data analysis with Python on 911 Call Data sourced from Kaggle.
 - Heat Map and Cluster Map comparing day of the week against the month
 ![Alt text](/graphs/heatmap2.png?raw=true)
 ![Alt text](/graphs/clustermap2.png?raw=true)
-
 
 
